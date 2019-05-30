@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">winter.ddnss.eu</domain>
+        <domain includeSubdomains="false">leo.unglaub.at</domain>
+        <domain includeSubdomains="false">saturn.fmd.wrk.dev</domain>
+    </domain-config>
+</network-security-config>
